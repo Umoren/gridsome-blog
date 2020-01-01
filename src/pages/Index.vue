@@ -15,6 +15,14 @@
       <a href="https://github.com/gridsome/gridsome" target="_blank" rel="noopener">GitHub</a>
     </p>
 
+    <ul>
+      <li>
+        <g-link to="/blog-html/blog-post-one"> Blog Post 1</g-link> <br>
+        <g-link to="/blog-html/blog-post-two"> Blog Post 2</g-link> <br>
+        <g-link to="/blog-html/blog-post-three"> Blog Post 3</g-link>
+      </li>
+    </ul>
+
   </Layout>
 </template>
 
